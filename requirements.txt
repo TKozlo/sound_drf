@@ -1,0 +1,7 @@
+Django
+djangorestframework
+Pillow
+drf-yags
+requests
+google-auth
+PYJWT
